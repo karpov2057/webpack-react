@@ -1,6 +1,6 @@
 {
 	"name": "webpack-react",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -49,6 +49,7 @@
 		"react-refresh": "^0.17.0",
 		"sass": "^1.88.0",
 		"sass-loader": "^16.0.5",
+		"standard-version": "^9.5.0",
 		"style-loader": "^4.0.0",
 		"stylelint": "^16.19.1",
 		"stylelint-config-standard": "^38.0.0",
